@@ -7,7 +7,7 @@ Akun Admin:
 -Password: 12345678
 
 Langkah-langkah memasang project ArtVenture:
-1. Membuat database baru di localhost/phpmyadmin dengan nama "artventure" (sesuai di .env)
+1. Membuat database baru di localhost/phpmyadmin dengan nama "artventure" (sesuai di .env)...
 2. Impor database yang sudah ada di project ArtVenture ke database baru
 3. Buka project ArtVenture di VS Code lalu buka terminal (ctrl + j)
 4. Jalankan perintah "composer install" untuk menginstal semua dependensi
@@ -27,7 +27,7 @@ Tutorial menggunakan ArtVenture dengan akun user:
 10. Setelah itu tekan done untuk melanjutkan menu history untuk mengecek riwayat transaksi
 
 Tutorial menggunakan ArtVenture dengan akun admin:
-1. Buka browser dan akses ke "(http://127.0.0.1:
+1. Buka browser dan akses ke "(http://127.0.0.1:8000/)"
 2. Masuk ke akun admin dengan email "admin@gmail"
 3. Pilih menu "Artworks" untuk melihat artikel-artikel yang sudah ada
 4. Tekan tombol "Add Artwork" untuk menambahkan artikel-artikel baru
