@@ -7,7 +7,7 @@ Akun Admin:
 -Password: 12345678
 
 Langkah-langkah memasang project ArtVenture:
-1. Membuat database baru di localhost/phpmyadmin dengan nama "artventure" (sesuai di .env)...
+1. Membuat database baru di localhost/phpmyadmin dengan nama "artventure" (sesuai di .env)
 2. Impor database yang sudah ada di project ArtVenture ke database baru
 3. Buka project ArtVenture di VS Code lalu buka terminal (ctrl + j)
 4. Jalankan perintah "composer install" untuk menginstal semua dependensi
